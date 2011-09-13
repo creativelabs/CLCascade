@@ -1,0 +1,4 @@
+Repository moved
+=========
+
+CLCascade repository moved to [http://github.com/appunite/clcascade/](https://github.com/appunite/clcascade/ "Twitter like iPad UI").
